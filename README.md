@@ -14,5 +14,6 @@ Provide clear steps on how to reproduce the issue. Don't forget to include other
   - Android: Main menu - About - Send logs
   - iOS: turn on logging in the Settings - Apps - Blynk. Then in the app: Main menu - About - Send logs
 
+- A screenshot or video if you think it will be helpful.
 - Actual Result and Expected Result.
 - If the issue is related to Blynk.Edgent, include a snippet of your code. Please use the markdown syntax for code blocks.
