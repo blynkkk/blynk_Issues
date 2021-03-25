@@ -9,10 +9,10 @@ Provide clear steps on how to reproduce the issue. Don't forget to include other
 - Email that you are using to log in.
 - Web dashboard or App?
 - OS name and version
-- If the issue is related to mobile apps, send logs from the app. 
+- If the issue is related to mobile apps, send logs from the app: 
 
   - Android: Main menu - About - Send logs
   - iOS: turn on logging in the Settings - Apps - Blynk. Then in the app: Main menu - About - Send logs
 
 - Actual Result and Expected Result.
-
+- If the issue is related to Blynk.Edgent, include a snippet of your code. Plase use the markdown syntax for code blocks.
