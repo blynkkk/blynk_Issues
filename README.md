@@ -15,4 +15,4 @@ Provide clear steps on how to reproduce the issue. Don't forget to include other
   - iOS: turn on logging in the Settings - Apps - Blynk. Then in the app: Main menu - About - Send logs
 
 - Actual Result and Expected Result.
-- If the issue is related to Blynk.Edgent, include a snippet of your code. Plase use the markdown syntax for code blocks.
+- If the issue is related to Blynk.Edgent, include a snippet of your code. Please use the markdown syntax for code blocks.
