@@ -11,8 +11,8 @@ Provide clear steps on how to reproduce the issue. Don't forget to include other
 - OS name and version
 - If the issue is related to mobile apps, send logs from the app: 
 
-  - Android: Main menu - About - Send logs
-  - iOS: turn on logging in the Settings - Apps - Blynk. Then in the app: Main menu - About - Send logs
+  - **Android**: Main menu - About - Send logs
+  - **iOS**: turn on logging in the Settings - Apps - Blynk. Then in the app: Main menu - About - Send logs
 
 - A screenshot or video if you think it will be helpful.
 - Actual Result and Expected Result.
