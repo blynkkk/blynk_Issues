@@ -1,4 +1,4 @@
-# Welcome to Blynk Beta!
+# Welcome to Blynk!
 
 We are excited for you to try our new platform. 
 
